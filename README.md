@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David Bustos
+# 👋 Hi, I'm David
 
 **🔒 Aspiring Cybersecurity Professional | 🎓 WGU Cybersecurity Student | 🖥️ Former Technical Artist**
 
