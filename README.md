@@ -33,7 +33,6 @@
 * AI-enhanced script development
 
 # 📊 GitHub Stats
-# 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBusterNikon&show_icons=true&theme=radical)
 
 *Note: Replace YOUR_GITHUB_USERNAME with your actual GitHub username to display stats*
