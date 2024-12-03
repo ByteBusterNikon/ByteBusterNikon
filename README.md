@@ -15,7 +15,6 @@ which I now apply to digital defense and security challenges. I am expanding my 
 * **Security Tools:** Wireshark, Zenmap/Nmap, Virtual Machines
 * **Frameworks:** NIST, ISO 27001
 * **Languages:** Python, PowerShell, Bash, Batch
-* **Platforms:** TryHackMe (Pre-Security & Cybersecurity paths completed)
   
 # 🚀 Personal Projects
 ## 🔍 Network Analysis Project
