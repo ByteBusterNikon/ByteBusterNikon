@@ -32,8 +32,6 @@ which I now apply to digital defense and security challenges. I am expanding my 
 * Security-focused patch management
 * AI-enhanced script development
 
-# 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBusterNikon&show_icons=true&theme=radical)
 
 
 <!---
