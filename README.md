@@ -13,7 +13,6 @@ which I now apply to digital defense and security challenges. I am expanding my 
 # 🛠️ Technical Skills
 * **Operating Systems:** Linux (Kali), Windows, MacOS
 * **Security Tools:** Wireshark, Zenmap/Nmap, Virtual Machines
-* **Frameworks:** NIST, ISO 27001
 * **Languages:** Python, PowerShell, Bash, Batch
   
 # 🚀 Personal Projects
