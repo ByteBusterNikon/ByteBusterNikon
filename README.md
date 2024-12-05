@@ -24,7 +24,7 @@ which I now apply to digital defense and security challenges. I am expanding my 
 
 ## 🛡️ Home PC Security Enhancement
 * Automated port management scripts
-* PowerShell implementation for system security
+* [PowerShell implementation for system security](https://github.com/ByteBusterNikon/homesec-powershell)
 * AI-assisted development for robust security solutions
 
 ## 🔄 Windows Update Automation
