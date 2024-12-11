@@ -16,20 +16,9 @@ which I now apply to digital defense and security challenges. I am expanding my 
 * **Languages:** Python, PowerShell, Bash, Batch
   
 # 🚀 Personal Projects
-## 🔍 Network Analysis Project
-* Network traffic analysis using Wireshark and Zenmap
-* Vulnerability assessment in sample environments
-* Security policy development
 
 ## 🛡️ Home PC Security Enhancement
-* Automated port management scripts
-* [System security scripts](https://github.com/ByteBusterNikon/SystemSecurityScripts)
-* AI-assisted development for robust security solutions
-
-## 🔄 Windows Update Automation
-* Automated update process implementation
-* Security-focused patch management
-* AI-enhanced script development
+* [System security scripts](https://github.com/ByteBusterNikon/SystemSecurityScripts) AI-assisted development for robust security solutions
 
 
 
