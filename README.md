@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David
 
-**🔒 Aspiring Cybersecurity Professional | 🎓 WGU Cybersecurity Student | 🖥️ Former Technical Artist**
+**🎯 Military Veteran | Cybersecurity | Security+ | Network+ | A+ | ITIL 4 | Red Team | Exploring Prompt Injection & AI Security**
 
 # 👨‍💻 About Me
 
@@ -9,6 +9,9 @@ which I now apply to digital defense and security challenges. I am expanding my 
 
 # 📜 Certifications
 * CompTIA A+
+* Network +
+* Security +
+* ITIL 4
 
 # 🛠️ Technical Skills
 * **Operating Systems:** Linux (Kali), Windows, MacOS)
