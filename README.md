@@ -107,5 +107,27 @@ and clear executive reporting. I love mentoring and building systems that turn c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBusterNikon&layout=compact&theme=transparent" alt="Top Languages"/>
 </p>
 
+<!-- EDUCATIONAL CREDIT -->
+<h2>🏫 Educational Credit</h2>
+<p>
+  This capstone was developed and completed as part of <b>Level Effect’s “Practical AI for Security” training</b> —
+  a 4-day immersive course focused on the intersection of <b>AI-assisted cybersecurity</b> and <b>practical incident response</b>.
+</p>
+
+<h3>📚 Course Highlights</h3>
+<ul>
+  <li>Hands-on experience with <b>MEDIC MCP</b>, a custom model for NLP-based incident response.</li>
+  <li>Learned prompt engineering techniques tailored for security: Zero-Shot, Few-Shot, Chain-of-Thought, and ReAct.</li>
+  <li>Explored AI vulnerabilities including prompt injection, token theft, OWASP Top 10 for LLMs, and MITRE ATLAS mappings.</li>
+  <li>Completed a full <b>Day 4 Capstone</b>: triaging a compromised Windows host using AI-augmented analysis.</li>
+</ul>
+
+<p>
+  🧠 <i>Special thanks to the Level Effect instructors and community for providing a world-class learning environment where AI meets cybersecurity.</i>
+</p>
+
+<p>
+  📎 <a href="https://leveleffect.com" target="_blank"><b>Level Effect — Practical AI for Security</b></a>
+</p>
 <!-- FOOTER NOTE -->
 <p align="center"><i>“AI doesn’t replace the analyst — it amplifies their insight.”</i></p>
