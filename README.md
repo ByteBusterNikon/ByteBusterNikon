@@ -31,8 +31,6 @@ I thrive on problem-solving, mentorship, and building systems that transform cha
 ![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey?style=flat-square)
 
   
-# 🚀 Personal Projects
-
 ## 🚀 Featured Projects
 ### 🧠 [AI-Assisted Triage Capstone](https://github.com/ByteBusterNikon/ai-assisted-triage-capstone)
 AI-assisted incident response simulation using Medic MCP, ChatGPT & Claude.  
