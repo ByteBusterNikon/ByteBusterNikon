@@ -95,7 +95,7 @@ and clear executive reporting. I love mentoring and building systems that turn c
 <!-- QUICK LINKS -->
 <h2>🔗 Quick Links</h2>
 <ul>
-  <li><a href="https://github.com/ByteBusterNikon?tab=repositories">All repositories</a></li>
+  <li><a href="https://github.com/BustosCyberLabs?tab=repositories">All repositories</a></li>
   <li><a href="https://github.com/ByteBusterNikon/ai-assisted-triage-capstone">AI-Assisted Triage Capstone</a></li>
   <li><a href="mailto:bustos_david@outlook.com?subject=Inquiry%20from%20GitHub%20Profile%20–%20AI-Assisted%20Triage%20%26%20IR">Email me</a> · <a href="https://www.linkedin.com/in/david-bustos/">LinkedIn</a></li>
 </ul>
