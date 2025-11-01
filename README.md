@@ -2,6 +2,17 @@
 
 **🎯 Military Veteran | Cybersecurity | Security+ | Network+ | A+ | ITIL 4 | Red Team | Exploring Prompt Injection & AI Security**
 
+# 👋 Hi, I'm David Bustos  
+### 🧠 Cybersecurity Analyst | AI-Assisted Incident Response | Veteran Leader  
+
+![Status](https://img.shields.io/badge/Status-Actively_Learning-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI_Security_&_DFIR-blue?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Background-Military_&_GeoIntelligence-purple?style=for-the-badge)
+![Mission](https://img.shields.io/badge/Mission-Build_Secure_AI_Systems-grey?style=for-the-badge)
+
+[![View Capstone Project](https://img.shields.io/badge/View_AI-Assisted_Triage_Capstone-black?style=for-the-badge&logo=github)](https://github.com/ByteBusterNikon/ai-assisted-triage-capstone)
+
+
 # 👨‍💻 About Me
 
 Former military professional with a background in geospatial intelligence, now pursuing cybersecurity. My military experience shaped my analytical skills and attention to detail, 
