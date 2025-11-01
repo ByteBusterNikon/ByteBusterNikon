@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm David Bustos</h1>
 <h3 align="center">🧠 Cybersecurity Analyst · AI-Assisted Incident Response · Veteran Leader</h3>
 
-<!-- SHINY BADGES (NO BLACK) -->
+<!-- SHINY BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=for-the-badge" alt="Status: Actively Building"/>
   <img src="https://img.shields.io/badge/Focus-AI_Security_%26_DFIR-4f46e5?style=for-the-badge" alt="Focus: AI Security & DFIR"/>
@@ -10,15 +10,15 @@
   <img src="https://img.shields.io/badge/Mission-Build_Secure_AI_Systems-0ea5e9?style=for-the-badge" alt="Mission: Build Secure AI Systems"/>
 </p>
 
-<!-- QUICK CONNECT -->
+<!-- CONTACT LINKS (with prefilled subject line) -->
 <p align="center">
   <a href="https://github.com/ByteBusterNikon/ai-assisted-triage-capstone" title="Open AI-Assisted Triage Capstone on GitHub">
-    <img src="https://img.shields.io/badge/Open_AI–Assisted_Triage_Capstone-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Open AI-Assisted Triage Capstone"/>
+    <img src="https://img.shields.io/badge/Open_AI–Assisted_Triage_Capstone-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Open AI-Assisted Triage Capstone"/>
   </a>
-  <a href="mailto:dbustos@example.com" title="Email David">
-    <img src="https://img.shields.io/badge/Email-Me-64748b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:bustos_david@outlook.com?subject=Inquiry%20from%20GitHub%20Profile%20–%20AI-Assisted%20Triage%20%26%20IR" title="Email David">
+    <img src="https://img.shields.io/badge/Email-bustos_david@outlook.com-64748b?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" title="Connect on LinkedIn">
+  <a href="https://www.linkedin.com/in/david-bustos/" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -28,8 +28,8 @@
 <!-- ABOUT -->
 <h2>🧭 About Me</h2>
 <p>
-I’m a retired Marine & Army veteran (Geospatial Intelligence), turning that mission-driven mindset toward cybersecurity.
-I specialize in <b>AI-assisted triage & incident response (IR)</b>  blending structured analysis, prompt engineering,
+I’m a retired Marine & Army veteran (Geospatial Intelligence) turning that mission-driven mindset toward cybersecurity.
+I specialize in <b>AI-assisted triage & incident response (IR)</b> — blending structured analysis, prompt engineering,
 and clear executive reporting. I love mentoring and building systems that turn chaos into clarity.
 </p>
 
@@ -59,7 +59,7 @@ and clear executive reporting. I love mentoring and building systems that turn c
 <p align="center">
   <a href="https://github.com/ByteBusterNikon/ai-assisted-triage-capstone">
     <img 
-      src="https://img.shields.io/badge/Open_AI–Assisted_Triage_Capstone-4f46e5?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/View_AI–Assisted_Triage_Capstone-4f46e5?style=for-the-badge&logo=github&logoColor=white" 
       alt="Open AI-Assisted Triage Capstone on GitHub"
       title="Click to view on GitHub"
     >
@@ -79,7 +79,7 @@ and clear executive reporting. I love mentoring and building systems that turn c
 <p align="center">
   <a href="https://github.com/ByteBusterNikon/SystemSecurityScripts">
     <img 
-      src="https://img.shields.io/badge/Open_System_Security_Scripts-0ea5e9?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/View_System_Security_Scripts-0ea5e9?style=for-the-badge&logo=github&logoColor=white" 
       alt="Open System Security Scripts on GitHub"
       title="Click to view on GitHub"
     >
@@ -92,15 +92,15 @@ and clear executive reporting. I love mentoring and building systems that turn c
   PowerShell & Python tools for security automation, hardening, and forensic triage — streamlining repetitive DFIR tasks.
 </p>
 
-<!-- OPTIONAL: QUICK LINKS ROW -->
+<!-- QUICK LINKS -->
 <h2>🔗 Quick Links</h2>
 <ul>
   <li><a href="https://github.com/ByteBusterNikon?tab=repositories">All repositories</a></li>
-  <li><a href="https://github.com/ByteBusterNikon/ai-assisted-triage-capstone/blob/main/README.md">Capstone README (front page)</a></li>
-  <li><a href="mailto:dbustos@example.com">Email me</a> · <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></li>
+  <li><a href="https://github.com/ByteBusterNikon/ai-assisted-triage-capstone">AI-Assisted Triage Capstone</a></li>
+  <li><a href="mailto:bustos_david@outlook.com?subject=Inquiry%20from%20GitHub%20Profile%20–%20AI-Assisted%20Triage%20%26%20IR">Email me</a> · <a href="https://www.linkedin.com/in/david-bustos/">LinkedIn</a></li>
 </ul>
 
-<!-- STATS (OPTIONAL) -->
+<!-- STATS -->
 <h2>📊 GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ByteBusterNikon&show_icons=true&theme=transparent" alt="GitHub Stats"/>
@@ -108,4 +108,4 @@ and clear executive reporting. I love mentoring and building systems that turn c
 </p>
 
 <!-- FOOTER NOTE -->
-<p><i>“AI doesn’t replace the analyst — it amplifies their insight.”</i></p>
+<p align="center"><i>“AI doesn’t replace the analyst — it amplifies their insight.”</i></p>
