@@ -1,7 +1,3 @@
-# 👋 Hi, I'm David
-
-**🎯 Military Veteran | Cybersecurity | Security+ | Network+ | A+ | ITIL 4 | Red Team | Exploring Prompt Injection & AI Security**
-
 # 👋 Hi, I'm David Bustos  
 ### 🧠 Cybersecurity Analyst | AI-Assisted Incident Response | Veteran Leader  
 
