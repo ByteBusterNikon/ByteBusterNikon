@@ -32,12 +32,33 @@ I thrive on problem-solving, mentorship, and building systems that transform cha
 
   
 ## 🚀 Featured Projects
-### 🧠 [AI-Assisted Triage Capstone](https://github.com/ByteBusterNikon/ai-assisted-triage-capstone)
-AI-assisted incident response simulation using Medic MCP, ChatGPT & Claude.  
-Demonstrates LLM-driven triage, report automation, and executive-level communication.
 
-### 🧰 [System Security Scripts](https://github.com/ByteBusterNikon/SystemSecurityScripts)
-Collection of PowerShell and Python scripts for security automation and forensic triage.
+<h2>🚀 Featured Projects</h2>
+
+<!-- Project 1 -->
+<h3>🧠 AI-Assisted Triage Capstone</h3>
+<p>
+  <a href="https://github.com/ByteBusterNikon/ai-assisted-triage-capstone">
+    <img src="https://img.shields.io/badge/Open_AI--Assisted_Triage_Capstone-black?style=for-the-badge&logo=github" alt="Open AI-Assisted Triage Capstone">
+  </a>
+</p>
+<p>
+  AI-assisted incident response simulation using Medic MCP, ChatGPT & Claude.  
+  Demonstrates LLM-driven triage, report automation, and executive-level communication.
+</p>
+
+<!-- Project 2 -->
+<h3>🧰 System Security Scripts</h3>
+<p>
+  <a href="https://github.com/ByteBusterNikon/SystemSecurityScripts">
+    <img src="https://img.shields.io/badge/Open_System_Security_Scripts-blue?style=for-the-badge&logo=github" alt="Open System Security Scripts">
+  </a>
+</p>
+<p>
+  Collection of PowerShell and Python scripts for security automation, hardening, and forensic triage.  
+  Designed to streamline repetitive DFIR and system analysis tasks.
+</p>
+
 
 
 
