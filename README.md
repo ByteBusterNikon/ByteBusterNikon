@@ -31,8 +31,8 @@
 <!-- ABOUT -->
 <h2>🧭 About Me</h2>
 <p>
-I’m a retired Marine & Army veteran (Geospatial Intelligence) turning that mission-driven mindset toward cybersecurity.
-I specialize in <b>AI-assisted triage & incident response (IR)</b> — blending structured analysis, prompt engineering,
+I’m a retired Marine & Army veteran (Geospatial Intelligence), turning that mission-driven mindset toward cybersecurity.
+I specialize in <b>AI-assisted triage & incident response (IR)</b> blending structured analysis, prompt engineering,
 and executive reporting. I’m actively expanding into <b>red teaming, LLM auditing, and AI platform security</b>.
 </p>
 
