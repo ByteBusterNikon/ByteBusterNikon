@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm David Bustos</h1>
+<h1 align="center">👋 Hi, I'm David </h1>
 <h3 align="center">AI Incident Response · Security Automation · Red Teaming</h3>
 <p align="center">
   <a href="https://github.com/BustosCyberLabs/ai-assisted-triage-capstone">AI Triage Capstone</a> ·
