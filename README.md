@@ -1,12 +1,6 @@
 <h1 align="center">👋 Hi, I'm David </h1>
 <h3 align="center">AI Incident Response · Security Automation · Red Teaming</h3>
 
-<p align="center">
-  <a href="https://github.com/BustosCyberLabs/ai-assisted-triage-capstone">AI Triage Capstone</a> ·
-  <a href="https://github.com/BustosCyberLabs/SystemSecurityScripts">Security Scripts</a> ·
-  <a href="https://www.linkedin.com/in/david-bustos/">LinkedIn</a>
-</p>
-
 ---
 
 ### About
