@@ -1,5 +1,10 @@
-<h1 align="center">👋 Hi, I'm David </h1>
+<h1 align="center">👋 Hi, I'm David Bustos</h1>
 <h3 align="center">AI Incident Response · Security Automation · Red Teaming</h3>
+
+<p align="center">
+  <a href="https://github.com/BustosCyberLabs/ai-assisted-triage-capstone">AI Triage Capstone</a> ·
+  <a href="https://github.com/BustosCyberLabs/SystemSecurityScripts">Security Scripts</a> 
+</p>
 
 ---
 
@@ -18,13 +23,13 @@ Specializing in:
 
 **🧠 AI-Assisted Triage Capstone**  
 > AI-driven incident response simulation using NLP, LLMs, Python, and Bash.  
-_[Skills: Python, NLP, Bash, Prompt Engineering]_  
-[View Project](https://github.com/BustosCyberLabs/ai-assisted-triage-capstone)
+> *[Skills: Python, NLP, Bash, Prompt Engineering]*  
+> [View Project](https://github.com/BustosCyberLabs/ai-assisted-triage-capstone)
 
 **🧰 System Security Scripts**  
 > PowerShell and Python tools for security automation, hardening, and forensic triage.  
-_[Skills: PowerShell, Python, Bash]_  
-[View Project](https://github.com/BustosCyberLabs/SystemSecurityScripts)
+> *[Skills: PowerShell, Python, Bash]*  
+> [View Project](https://github.com/BustosCyberLabs/SystemSecurityScripts)
 
 ---
 
@@ -38,8 +43,8 @@ Stay tuned for updates and releases in this section.
 ### 🔗 Quick Links
 
 - [LinkedIn](https://www.linkedin.com/in/david-bustos/)
-- [AI-Assisted Triage Capstone](https://github.com/BustosCyberLabs/ai-assisted-triage-capstone)
-- [System Security Scripts](https://github.com/BustosCyberLabs/SystemSecurityScripts)
+
+*For technical detail and work samples, see featured repositories above.*
 
 ---
 
