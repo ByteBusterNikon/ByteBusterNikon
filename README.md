@@ -10,7 +10,7 @@
 
 ### About
 
-Retired Marine & Army veteran, now focused on cybersecurity with an emphasis on AI-augmented incident response, automation, and red team techniques.
+Retired Marine and Army veteran now focused on cybersecurity with an emphasis on AI-augmented incident response, automation, and red team techniques. Bringing a disciplined, mission-driven approach to rapidly evolving security challenges, committed to continuous learning and impactful defense operations.
 
 Specializing in:
 - AI-driven triage & incident response with Python, Bash, and prompt engineering
